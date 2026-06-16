@@ -1,0 +1,61 @@
+#EXTM3U
+#EXTINF:0,1. TVRI JATENG HD
+http://10.10.10.24:8999/stream=90.ts
+#EXTINF:0,2. TVRI WORLD
+http://10.10.10.24:8999/stream=91.ts
+#EXTINF:0,3. TVRI SPORT HD
+http://10.10.10.24:8999/stream=92.ts
+#EXTINF:0,4. KEBUMEN TV HD
+http://10.10.10.24:8999/stream=93.ts
+#EXTINF:0,5. MDTV
+http://10.10.10.24:8999/stream=94.ts
+#EXTINF:0,6. GARUDA TV
+http://10.10.10.24:8999/stream=109.ts
+#EXTINF:0,7. TRANS TV HD
+http://10.10.10.24:8999/stream=116.ts
+#EXTINF:0,8. METRO TV HD
+http://10.10.10.24:8999/stream=106.ts
+#EXTINF:0,9. SCTV HD
+http://10.10.10.24:8999/stream=101.ts
+#EXTINF:0,10. INDOSIAR HD
+http://10.10.10.24:8999/stream=102.ts
+#EXTINF:0,11. RTV HD
+http://10.10.10.24:8999/stream=89.ts
+#EXTINF:0,12. ANTV HD
+http://10.10.10.24:8999/stream=113.ts
+#EXTINF:0,13. TVONE HD
+http://10.10.10.24:8999/stream=112.ts
+#EXTINF:0,14. MOJI HD
+http://10.10.10.24:8999/stream=103.ts
+#EXTINF:0,15. MENTARI HD
+http://10.10.10.24:8999/stream=104.ts
+#EXTINF:0,16. VTV HD
+http://10.10.10.24:8999/stream=110.ts
+#EXTINF:0,17. NUSANTARA TV
+http://10.10.10.24:8999/stream=108.ts
+#EXTINF:0,18. BN TV
+http://10.10.10.24:8999/stream=107.ts
+#EXTINF:0,19. Satelit TV
+http://10.10.10.24:8999/stream=117.ts
+#EXTINF:0,20. TVRI Jawa Tengah
+http://10.10.10.24:8999/stream=97.ts
+#EXTINF:0,21. TVRI World
+http://10.10.10.24:8999/stream=98.ts
+#EXTINF:0,22. JAGANTARA HD
+http://10.10.10.24:8999/stream=114.ts
+#EXTINF:0,23. BMSTV
+http://10.10.10.24:8999/stream=118.ts
+#EXTINF:0,24. CNBC INDONESIA HD
+http://10.10.10.24:8999/stream=119.ts
+#EXTINF:0,25. CNN INDONESIA HD 
+http://10.10.10.24:8999/stream=120.ts
+#EXTINF:0,26. TRANS 7 HD
+http://10.10.10.24:8999/stream=121.ts
+#EXTINF:0,27. RCTI
+http://10.10.10.24:8999/stream=122.ts
+#EXTINF:0,28. MNCTV
+http://10.10.10.24:8999/stream=123.ts
+#EXTINF:0,29. GTV
+http://10.10.10.24:8999/stream=124.ts
+#EXTINF:0,30. iNews
+http://10.10.10.24:8999/stream=125.ts
