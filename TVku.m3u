@@ -1,91 +1,61 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rtv.png",RTV HD
+#EXTINF:0,1. RTV HD
 http://10.10.10.24:8999/stream=89.ts
-
-#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri.png",TVRI JATENG HD
+#EXTINF:0,2. TVRI JATENG HD
 http://10.10.10.24:8999/stream=90.ts
-
-#EXTINF:-1 tvg-id="KebumenTV.id",KEBUMEN TV HD
+#EXTINF:0,3. KEBUMEN TV HD
 http://10.10.10.24:8999/stream=93.ts
-
-#EXTINF:-1 tvg-id="MDTV.id",MDTV
+#EXTINF:0,4. MDTV
 http://10.10.10.24:8999/stream=94.ts
-
-#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri.png",TVRI WORLD
+#EXTINF:0,5. TVRI WORLD
 http://10.10.10.24:8999/stream=91.ts
-
-#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-sport.png",TVRI SPORT HD
+#EXTINF:0,6. TVRI SPORT HD
 http://10.10.10.24:8999/stream=92.ts
-
-#EXTINF:-1 tvg-id="TVRI.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri.png",TVRI Jawa Tengah
+#EXTINF:0,7. TVRI Jawa Tengah
 http://10.10.10.24:8999/stream=97.ts
-
-#EXTINF:-1 tvg-id="TVRIWorld.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri.png",TVRI World
+#EXTINF:0,8. TVRI World
 http://10.10.10.24:8999/stream=98.ts
-
-#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv.png",SCTV HD
+#EXTINF:0,9. SCTV HD
 http://10.10.10.24:8999/stream=101.ts
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar.png",INDOSIAR HD
+#EXTINF:0,10. INDOSIAR HD
 http://10.10.10.24:8999/stream=102.ts
-
-#EXTINF:-1 tvg-id="MOJI.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/moji.png",MOJI HD
+#EXTINF:0,11. MOJI HD
 http://10.10.10.24:8999/stream=103.ts
-
-#EXTINF:-1 tvg-id="MentariTV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/mentari-tv.png",MENTARI HD
+#EXTINF:0,12. MENTARI HD
 http://10.10.10.24:8999/stream=104.ts
-
-#EXTINF:-1 tvg-id="BNTV.id",BN TV
+#EXTINF:0,13. BN TV
 http://10.10.10.24:8999/stream=107.ts
-
-#EXTINF:-1 tvg-id="GarudaTV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/garuda-tv.png",GARUDA TV
+#EXTINF:0,14. GARUDA TV
 http://10.10.10.24:8999/stream=109.ts
-
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv.png",METRO TV HD
+#EXTINF:0,15. METRO TV HD
 http://10.10.10.24:8999/stream=106.ts
-
-#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/nusantara-tv.png",NUSANTARA TV
+#EXTINF:0,16. NUSANTARA TV
 http://10.10.10.24:8999/stream=108.ts
-
-#EXTINF:-1 tvg-id="VTV.id",VTV HD
+#EXTINF:0,17. VTV HD
 http://10.10.10.24:8999/stream=110.ts
-
-#EXTINF:-1 tvg-id="ANTV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/antv.png",ANTV HD
+#EXTINF:0,18. ANTV HD
 http://10.10.10.24:8999/stream=113.ts
-
-#EXTINF:-1 tvg-id="tvOne.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvone.png",TVONE HD
+#EXTINF:0,19. TVONE HD
 http://10.10.10.24:8999/stream=112.ts
-
-#EXTINF:-1 tvg-id="JagantaraTV.id",JAGANTARA HD
+#EXTINF:0,20. JAGANTARA HD
 http://10.10.10.24:8999/stream=114.ts
-
-#EXTINF:-1 tvg-id="SatelitTV.id",Satelit TV
+#EXTINF:0,21. Satelit TV
 http://10.10.10.24:8999/stream=117.ts
-
-#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/cnbc-indonesia.png",CNBC INDONESIA HD
+#EXTINF:0,22. CNBC INDONESIA HD
 http://10.10.10.24:8999/stream=119.ts
-
-#EXTINF:-1 tvg-id="CNNIndonesia.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/cnn-indonesia.png",CNN INDONESIA HD
+#EXTINF:0,23. CNN INDONESIA HD 
 http://10.10.10.24:8999/stream=120.ts
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans7.png",TRANS 7 HD
+#EXTINF:0,24. TRANS 7 HD
 http://10.10.10.24:8999/stream=121.ts
-
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-tv.png",TRANS TV HD
+#EXTINF:0,25. TRANS TV HD
 http://10.10.10.24:8999/stream=116.ts
-
-#EXTINF:-1 tvg-id="BMSTV.id",BMSTV
+#EXTINF:0,26. BMSTV
 http://10.10.10.24:8999/stream=118.ts
-
-#EXTINF:-1 tvg-id="iNews.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/inews.png",iNews
+#EXTINF:0,27. iNews
 http://10.10.10.24:8999/stream=125.ts
-
-#EXTINF:-1 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/gtv.png",GTV
+#EXTINF:0,28. GTV
 http://10.10.10.24:8999/stream=124.ts
-
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rcti.png",RCTI
+#EXTINF:0,29. RCTI
 http://10.10.10.24:8999/stream=122.ts
-
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/mnctv.png",MNCTV
+#EXTINF:0,30. MNCTV
 http://10.10.10.24:8999/stream=123.ts
