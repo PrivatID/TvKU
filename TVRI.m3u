@@ -1,3 +1,17 @@
 #EXTM3U
+#EXTINF:0,1. RTV HD
+http://10.10.10.24:8999/stream=89.ts
+#EXTINF:0,2. TVRI JATENG HD
+http://10.10.10.24:8999/stream=90.ts
+#EXTINF:0,3. KEBUMEN TV HD
+http://10.10.10.24:8999/stream=93.ts
+#EXTINF:0,4. MDTV
+http://10.10.10.24:8999/stream=94.ts
+#EXTINF:0,5. TVRI WORLD
+http://10.10.10.24:8999/stream=91.ts
 #EXTINF:0,6. TVRI SPORT HD
 http://10.10.10.24:8999/stream=92.ts
+#EXTINF:0,7. TVRI Jawa Tengah
+http://10.10.10.24:8999/stream=97.ts
+#EXTINF:0,8. TVRI World
+http://10.10.10.24:8999/stream=98.ts
